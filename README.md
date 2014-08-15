@@ -1,1 +1,2 @@
-## Miva Merchant Template Language
+## Miva Merchant Template Language Documentation
+
