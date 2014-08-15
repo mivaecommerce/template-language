@@ -1,0 +1,4 @@
+{
+	"title": "Miva Merchant: Template Language",
+	"description": "The robust Miva Script Template Language greatly expands the stock template capabilities of your shopping cart. With the new template tag <mvt:assign> you can access over 180 built in functions. This book is documentation for Miva Merchant's StoreMorph Templating Language."
+}
